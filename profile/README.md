@@ -1,4 +1,4 @@
-# **Interpretable, Explainable, Human-Aligned. We're ONYX.**
-
-https://github.com/user-attachments/assets/a2158a3b-0972-4e45-86db-caa3a6f9911e
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1dd19d07-d62b-4834-82a7-3beb556e4aae" alt="ONYX Animation">
+</p>
+<h2 align="center"><b>Interpretable, Explainable, Human-Aligned. We're ONYX.</b></h2>
