@@ -1,2 +1,4 @@
 # **Interpretable, Explainable, Human-Aligned. We're ONYX.**
-<video src="https://github.com/Onyx-AI-LLC/.github/raw/main/profile/animation.mp4" autoplay loop muted playsinline></video>
+
+https://github.com/user-attachments/assets/a2158a3b-0972-4e45-86db-caa3a6f9911e
+
